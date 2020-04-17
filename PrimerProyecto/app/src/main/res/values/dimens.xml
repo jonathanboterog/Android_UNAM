@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lb_text_size">45sp</dimen>
+    <dimen name="lb_height_size">250dp</dimen>
+    <dimen name="lb_height_size_land">90dp</dimen>
+
+    <dimen name="bt_text_size">18sp</dimen>
+    <dimen name="bt_width_size">150dp</dimen>
+    <dimen name="bt_height_size">45dp</dimen>
+    <dimen name="bt_height_size_land">45dp</dimen>
+</resources>
